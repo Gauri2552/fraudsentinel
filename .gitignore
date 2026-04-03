@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual env
+venv/
+.venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Old copies (do not redeploy these)
+fraudsentinel/
+fraudsentinel_app/
+{static/
+model_cache/model_cache_bak/
+
+# Sensitive
+.env
+*.key
