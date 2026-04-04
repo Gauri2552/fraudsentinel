@@ -132,10 +132,10 @@ Without a key, rule-based fallback narratives are used automatically.
 ![Architecture Diagram](fraud_architecture_diagram.svg)
 
 ## Data Pipeline
-![Data Pipeline Flow](assets/pipeline.png)
+![Data Pipeline Flow](fraud_data_pipeline_flow.svg)
 
 ## Model Serving Logic
-![Model Serving Logic](assets/serving.png)
+![Model Serving Logic](fraud_model_serving_logic.svg)
 
 ---
 *FraudSentinel · Gauri Kshirsagar · MSc Data Science · University of Leicester · 2026*
