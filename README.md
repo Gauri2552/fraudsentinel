@@ -130,7 +130,7 @@ Without a key, rule-based fallback narratives are used automatically.
 
 ---
 *FraudSentinel · Gauri Kshirsagar · MSc Data Science · University of Leicester · 2026*
-## 🔹 Add a “Live Demo” section (VERY IMPORTANT)
+## 🔹 “Live Demo” 
 
 Once Render works, add:
 
