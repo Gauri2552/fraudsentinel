@@ -128,6 +128,15 @@ Without a key, rule-based fallback narratives are used automatically.
 
 *Actual values computed at runtime from live training.*
 
+## Architecture
+![Architecture Diagram](assets/architecture.png)
+
+## Data Pipeline
+![Data Pipeline Flow](assets/pipeline.png)
+
+## Model Serving Logic
+![Model Serving Logic](assets/serving.png)
+
 ---
 *FraudSentinel · Gauri Kshirsagar · MSc Data Science · University of Leicester · 2026*
 ## 🔹 “Live Demo” 
