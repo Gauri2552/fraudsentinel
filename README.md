@@ -129,6 +129,7 @@ Without a key, rule-based fallback narratives are used automatically.
 *Actual values computed at runtime from live training.*
 
 ---
+*FraudSentinel · Gauri Kshirsagar · MSc Data Science · University of Leicester · 2026*
 ## 🔹 Add a “Live Demo” section (VERY IMPORTANT)
 
 Once Render works, add:
@@ -139,5 +140,4 @@ Once Render works, add:
 '''
 ---
 
-## FraudSentinel · Gauri Kshirsagar · MSc Data Science · University of Leicester · 2026*
 
